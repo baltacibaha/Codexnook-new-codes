@@ -1,0 +1,14 @@
+Tasarım
+
+Üyelik sistemi
+Admin Paneli
+    Kategori ekleme
+
+Konu paylaşma
+Konu okuma
+
+Yorum yapma
+Profil, konular, cevaplar
+
+Yeni açılan konular
+Son Cevaplar

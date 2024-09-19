@@ -1,0 +1,37 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+nav {
+  background-color: #3498db;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 5px;
+}
+
+nav a:hover {
+  background-color: #2980b9;
+  border-radius: 5px;
+}
